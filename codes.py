@@ -1,5 +1,5 @@
 import os
-a = 5
+a = 50
 b = 3
 hasil = a + b
 print(hasil)  
