@@ -17,6 +17,7 @@ x = a*b
 print (x)
 print("Start")
 print("Start")
+print("Mulai")
 #Stashed changes
 print('tambah baru')
 
