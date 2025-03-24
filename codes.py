@@ -20,4 +20,9 @@ print("Start")
 print("Mulai")
 #Stashed changes
 print('tambah baru')
+c = 4
+d = 1
+y = c-d
+print (y)
+
 
