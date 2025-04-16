@@ -27,4 +27,8 @@ print ("Hasil c-d:",y)
 #Bagian 4
 print('new')
 print("3F")
+g = 10
+h = 2
+hasil = g / h
+print("Hasil pembagian:", hasil)
 
