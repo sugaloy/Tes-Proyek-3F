@@ -26,5 +26,5 @@ y = c-d
 print ("Hasil c-d:",y)
 #Bagian 4
 print('new')
-
+print("3F")
 
