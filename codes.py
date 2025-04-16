@@ -31,4 +31,6 @@ g = 10
 h = 2
 hasil = g / h
 print("Hasil pembagian:", hasil)
+print("Selesai")
+
 
