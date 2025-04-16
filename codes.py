@@ -24,5 +24,7 @@ c = 4
 d = 1
 y = c-d
 print ("Hasil c-d:",y)
+#Bagian 4
+print('new')
 
 
